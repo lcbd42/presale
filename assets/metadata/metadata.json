@@ -2,7 +2,7 @@
     "name": "ATD Token",
     "symbol": "ATD",
     "description": "ATD Token with PreSale functionality",
-    "image": "https://raw.githubusercontent.com/YOUR_USERNAME/presale/main/assets/images/token-image.png",
+    "image": "https://raw.githubusercontent.com/lcbd42/presale/main/assets/images/token-image.png",
     "attributes": [
         {
             "trait_type": "Type",
@@ -12,7 +12,7 @@
     "properties": {
         "files": [
             {
-                "uri": "https://raw.githubusercontent.com/YOUR_USERNAME/presale/main/assets/images/token-image.png",
+                "uri": "https://raw.githubusercontent.com/lcbd42/presale/main/assets/images/token-image.png",
                 "type": "image/png"
             }
         ]
