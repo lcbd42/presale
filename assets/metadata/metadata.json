@@ -1,20 +1,6 @@
 {
-    "name": "ATD Token",
-    "symbol": "ATD",
-    "description": "ATD Token with PreSale functionality",
-    "image": "https://raw.githubusercontent.com/lcbd42/presale/main/assets/images/token-image.png",
-    "attributes": [
-        {
-            "trait_type": "Type",
-            "value": "Utility Token"
-        }
-    ],
-    "properties": {
-        "files": [
-            {
-                "uri": "https://raw.githubusercontent.com/lcbd42/presale/main/assets/images/token-image.png",
-                "type": "image/png"
-            }
-        ]
-    }
+  "name": "Example Token",
+  "symbol": "EXMPL",
+  "description": "Example token from Solana Making a Token guide.",
+  "image": "https://raw.githubusercontent.com/solana-developers/opos-asset/main/assets/CompressedCoil/image.png"
 } 
