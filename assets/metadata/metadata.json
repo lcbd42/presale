@@ -2,5 +2,5 @@
   "name": "Example Token",
   "symbol": "EXMPL",
   "description": "Example token from Solana Making a Token guide.",
-  "image": "https://raw.githubusercontent.com/solana-developers/opos-asset/main/assets/CompressedCoil/image.png"
+  "image": "https://raw.githubusercontent.com/lcbd42/presale/refs/heads/main/assets/images/token-image.png"
 } 
